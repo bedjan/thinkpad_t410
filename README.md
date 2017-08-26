@@ -6,7 +6,7 @@
 https://yadi.sk/d/eNpemYGv3MLdDZ
 
 #### Linux
-[http://www.thinkwiki.org/wiki/Installing_Ubuntu_11.10_(Oineric_Ocelot)_on_a_ThinkPad_T410](Installing Ubuntu 11.10 (Oineric Ocelot) on a ThinkPad T410)
+[http://www.thinkwiki.org/wiki/Installing_Ubuntu_11.10_(Oineric_Ocelot)_on_a_ThinkPad_T410](Installing Ubuntu 11.10 Oineric Ocelot on a ThinkPad T410)
 
 [Think wiky](http://www.thinkwiki.org/wiki/Category:T410|Category:T410)
 
