@@ -2,6 +2,8 @@
 
 #### ThinkPad_T410
 
+http://www.notebookreview.com/notebookreview/lenovo-thinkpad-t410-review/
+
 #### Ovladače Win7 64 bit
 https://yadi.sk/d/eNpemYGv3MLdDZ
 
